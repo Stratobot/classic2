@@ -1,3 +1,5 @@
+# Neostera Documentation
+Things that will help you to use the bot more easily!
 # Try it out!
 Type `,help` to get started.
 <amp-iframe class="rounded" src="https://e.widgetbot.io/channels/562556870741590036/807840721943658527" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/562556870741590036/807840721943658527" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
