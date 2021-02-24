@@ -1,3 +1,6 @@
+---
+layout: pw
+---
 # Neostera Documentation
 Things that will help you to use the bot more easily!
 # Try it out!
