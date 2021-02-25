@@ -5,10 +5,10 @@
 :root {
     --primary-color: #292a2e;
 	--secondary-color: #202024;
-	--grey-text: #c9ccd6;
-    --error-color: #fc4747;
-    --purple: #FFFF00;
-    --light-purple: #FFFF99;
+	--grey-text: #808080;
+    --error-color: #ff0000;
+    --purple: #9800ff;
+    --light-purple: #b19cd9 ;
 }
 
 * {
