@@ -1,7 +1,7 @@
 ---
 layout: pw
 ---
-# Neostera Documentation
+# Stratobot Documentation
 Things that will help you to use the bot more easily!
 # Try it out!
 Type `,help` to get started.
