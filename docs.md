@@ -1,6 +1,3 @@
----
-layout: pw
----
 # Stratobot Documentation
 Things that will help you to use the bot more easily!
 # Try it out!
